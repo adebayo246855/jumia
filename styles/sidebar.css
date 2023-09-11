@@ -1,0 +1,60 @@
+
+    .sidebar{
+        position: fixed;
+        top: 60px;
+        left: 0;
+        bottom: 0;
+        background-color: white;
+        width: 70px;
+        z-index: 200;
+        padding-top: 5px;
+        
+        }
+        .sidebar-link{
+            height: 74px;
+            display: flex;flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            
+            }
+        
+
+
+            .sidebar-link:hover{
+                background-color: rgb(180, 176, 176);
+                
+                }
+                
+                
+                .sidebar-link   img{
+                height: 24px; 
+                margin-bottom: 4px; 
+                }
+                
+                .sidebar   div{
+                font-weight:Roboto,Arial;
+                font-size: 10px;
+                font-weight: bold;
+                
+                }                   
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
